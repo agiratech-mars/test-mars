@@ -1,3 +1,6 @@
 this is test1 3.49
+<<<<<<< HEAD:test1.txt
 this is my second line add
 third line added 
+=======
+>>>>>>> f719d20... test1.txt 2line added:test1.txt
